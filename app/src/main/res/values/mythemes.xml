@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LightTheme"
+        parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimaryDark">#4ba3c7</item>
+        <item name="colorPrimary">#81d4fa</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">#81d4fa</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:windowBackground">#b6ffff</item>
+        <item name="android:statusBarColor">#4ba3c7</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="NightTheme"
+        parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimaryDark">#6f79a8</item>
+        <item name="colorPrimary">#9fa8da</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">#9fa8da</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:windowBackground">#d1d9ff</item>
+        <item name="android:statusBarColor">#6f79a8</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+</resources>
